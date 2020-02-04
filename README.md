@@ -30,3 +30,9 @@ For screens with different fonts Bold and Light
 
 
 <h3>How to do Announcement in iOS </h3>
+
+<h3>accessibilityLabel</h3>
+https://developer.apple.com/documentation/uikit/uiaccessibilityelement/1619577-accessibilitylabel
+
+<h3>accessibilityIdentifier</h3>
+https://developer.apple.com/documentation/uikit/uiaccessibilityidentification/1623132-accessibilityidentifier
