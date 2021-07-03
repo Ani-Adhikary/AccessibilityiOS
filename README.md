@@ -36,3 +36,7 @@ https://developer.apple.com/documentation/uikit/uiaccessibilityelement/1619577-a
 
 <h3>accessibilityIdentifier</h3>
 https://developer.apple.com/documentation/uikit/uiaccessibilityidentification/1623132-accessibilityidentifier
+
+<h3>The voice iOS - Article</h3>
+
+https://medium.com/short-swift-stories/the-voice-of-ios-e1e5ea535592
