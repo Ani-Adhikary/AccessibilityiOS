@@ -5,7 +5,7 @@ Accessibility tutorials, demos and checklists
 
 -> For Nav Bar
 
--> For Nav Bar with Logo -> HSBC Logo
+-> For Nav Bar with Logo -> H** Logo
 
 -> For Heading Labels
 
